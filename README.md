@@ -34,7 +34,7 @@
 - server=1
 - listen=1
 - rpcallowip=127.0.0.1
-- addnode=216.189.153.5
+- addnode=185.122.59.164
 
 ## Wallets:
 
